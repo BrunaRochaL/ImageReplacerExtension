@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Extensão teste",
+  "description": "Primeira extensão para o google chrome",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
